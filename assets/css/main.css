@@ -2708,7 +2708,6 @@ input, select, textarea {
 			}
 
 			.tiles article.style5 > .image:before {
-				background-color: black;
 				opacity: 0.5;
 			}
 
