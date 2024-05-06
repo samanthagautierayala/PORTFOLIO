@@ -3,17 +3,27 @@
   <defs>
     <style>
       .cls-1 {
-        fill: #595959;
         font-family: Agraham-PersonalUse, Agraham;
-        font-size: 78px;
+        font-size: 87.6px;
       }
 
       .cls-1, .cls-2 {
+        fill: #595959;
+      }
+
+      .cls-1, .cls-3 {
         isolation: isolate;
+      }
+
+      .cls-2 {
+        font-family: SourceSansPro-ExtraLight, 'Source Sans Pro';
+        font-size: 36.5px;
+        font-weight: 200;
       }
     </style>
   </defs>
-  <g class="cls-2">
-    <text class="cls-1" transform="translate(0 216)"><tspan x="0" y="0">Samantha Gautier</tspan></text>
+  <g class="cls-3">
+    <text class="cls-1" transform="translate(445.9 130.2)"><tspan x="0" y="0">Samantha Gautier</tspan></text>
   </g>
+  <text class="cls-2" transform="translate(446 196.4)"><tspan x="0" y="0">Advertising, Public Relations, and Design: A glimpse into my creative approach.</tspan></text>
 </svg>
